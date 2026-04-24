@@ -1,4 +1,4 @@
-# GTax AI — AI-Powered GST Co-Pilot for MSMEs
+ # GTax AI — AI-Powered GST Co-Pilot for MSMEs
 
 GTax AI is a smart GST compliance dashboard designed for small and medium businesses (MSMEs) to simplify invoice reconciliation, detect ITC mismatches, track vendor risk, and reduce filing errors.
 
