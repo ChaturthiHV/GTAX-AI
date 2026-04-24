@@ -42,7 +42,7 @@ Small businesses often struggle with GST due to:
 - Frequent regulatory changes
 - Heavy dependency on manual accounting support
 
-GTax AI solves this by acting as a **GST co-pilot** that helps users identify risks early and stay compliant with less manual effort.
+**GTax AI** solves this by acting as a **GST co-pilot** that helps users identify risks early and stay compliant with less manual effort.
 
 ---
 
